@@ -1,2 +1,2 @@
 # terra-nova
-strona dla cwiczen 1-4
+strona dla cwiczen 1-7
